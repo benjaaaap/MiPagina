@@ -1,0 +1,26 @@
+body {
+    background-color: wheat
+}
+
+h2 {
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+  image-rendering: optimizeQuality;
+
+}
+
+h1 {
+    color: black;
+    text-decoration: line-through red;
+    text-align: center;
+    font-size: 60px;
+}
+button{
+
+}
